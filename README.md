@@ -1,4 +1,4 @@
-# hcktv-P1-W1D1-SusunKursi
+# Javascript Basic Logic - Susun Kursi
 
 bila ada 10 orang, ['a','b','c','d','e','f','g','h','i','j'].
 orang-orang tsb akan diatur tempat duduk nya berdasarkan urutannya secara vertikal,
